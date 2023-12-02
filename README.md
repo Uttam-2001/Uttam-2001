@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uttam-2001
+- 👋 Hi, I’m @Uttam_001
 - 👀 I’m interested in Web development and app development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
